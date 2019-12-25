@@ -33,7 +33,10 @@
     }
 
 
+在Android studio 里面Terminal 控制台执行命令就可以了
 
+gradlew uploadReleaseToFir
 
+gradlew uploadDebugToFir
 
 
