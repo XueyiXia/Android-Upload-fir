@@ -1,5 +1,5 @@
 # Android-
-![image](http://github.com/XueyiXia/Android-Upload-fir/raw/master/images/task_fun.png)
+
 很久没有回到自己的github 了，每天都是赶项目赶项目，扎心了这两年，在开发中的一点点，我想都可以记录下来，现在记录Android 自动打包并且上传到fir 的小功能
 
 
@@ -39,6 +39,8 @@ def getBuildTime() {
             upLoadFun(defaultConfig,"assembleRelease")
         }
     }
+
+![image](http://github.com/XueyiXia/Android-Upload-fir/raw/master/images/task_fun.png)
 
 
 在Android studio 里面Terminal 控制台执行命令就可以了
