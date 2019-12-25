@@ -40,7 +40,7 @@ def getBuildTime() {
         }
     }
 
-![image](http://github.com/XueyiXia/Android-Upload-fir/raw/master/images/task_fun.png)
+![image](https://github.com/XueyiXia/Android-Upload-fir/blob/master/task_fun.png)
 
 
 在Android studio 里面Terminal 控制台执行命令就可以了
