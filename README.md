@@ -8,7 +8,15 @@
 
 因为在这里写上代码，会错乱，所以大家下载UploadFir 方法，
 
-在项目的build 里面的android 里面增加以下方法
+
+1.获取
+//获取版本的时间
+def getBuildTime() {
+    return new Date().format("yyyy-MM-dd HH-mm-ss")
+}
+
+
+2.在项目的build 里面的android 里面增加以下方法
 
     /**
      * 自动打包debug 版本并上传到Fir
